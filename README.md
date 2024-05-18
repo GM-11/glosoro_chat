@@ -29,8 +29,7 @@ Download and setup your freighter wallet and enjoy this app!
 
 ## Challenges Faced
 
-1. Users can login using their freighter wallet
-2. Users can post their messages on the platform
+1) Integrating connection between frontend and soroban smart contract
 
 Contract Adress on testnet:
 CB2NLCUYTI33L7IRB2TYLUJH7LKZUJRJH72OO2H5CV2LMTPYZRQDIZ2K
