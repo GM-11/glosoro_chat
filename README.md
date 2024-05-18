@@ -32,7 +32,5 @@ Download and setup your freighter wallet and enjoy this app!
 1. Users can login using their freighter wallet
 2. Users can post their messages on the platform
 
-Projet Image:
-
 Contract Adress on testnet:
 CB2NLCUYTI33L7IRB2TYLUJH7LKZUJRJH72OO2H5CV2LMTPYZRQDIZ2K
