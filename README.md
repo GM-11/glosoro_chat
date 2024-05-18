@@ -1,21 +1,12 @@
-# Soroban Project
+# GloSoro Chat
 
-## Project Structure
+A decentralized global chat room where people can discuss about thier opinions securely.
 
-This repository uses the recommended structure for a Soroban project:
-```text
-.
-├── contracts
-│   └── hello_world
-│       ├── src
-│       │   ├── lib.rs
-│       │   └── test.rs
-│       └── Cargo.toml
-├── Cargo.toml
-└── README.md
-```
+## Vision
 
-- New Soroban contracts can be put in `contracts`, each in their own directory. There is already a `hello_world` contract in there to get you started.
-- If you initialized this project with any other example contracts via `--with-example`, those contracts will be in the `contracts` directory as well.
-- Contracts should have their own `Cargo.toml` files that rely on the top-level `Cargo.toml` workspace for their dependencies.
-- Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
+To make communication secure and free from any corruption and control of centralized authorities.
+
+### Features
+
+1. Users can login using their freighter wallet
+2. Users can post their messages on the platform
