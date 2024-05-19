@@ -32,4 +32,4 @@ Download and setup your freighter wallet and enjoy this app!
 1) Integrating connection between frontend and soroban smart contract
 
 Contract Adress on testnet:
-CB2NLCUYTI33L7IRB2TYLUJH7LKZUJRJH72OO2H5CV2LMTPYZRQDIZ2K
+CCQXEBL2BJMY6BPOBNA22QOY25XZFGA2KTSW2DUBOU7Q4EQWWGL4723C

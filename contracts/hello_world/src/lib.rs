@@ -13,23 +13,6 @@ pub struct TossContract;
 
 #[contractimpl]
 impl TossContract {
-    pub fn toss(env: Env) -> Symbol {
-        let res: u64 = env.prng().gen_range(1..=100);
-        if res % 2 == 0 {
-            symbol_short!("Tails")
-        } else {
-            symbol_short!("Heads")
-        }
-    }
-
-    // pub fn change_state(env: Env) {
-    //     env.storage().instance().set(&STATE, &symbol_short!("lol"))
-    // }
-
-    // pub fn get_state(env: Env) -> Symbol {
-    //     env.storage().instance().get(&STATE).unwrap_or(symbol_short!("Err"))
-    // }
-
     pub fn get_message(env: Env) -> Vec<String> {
         env
             .storage()
